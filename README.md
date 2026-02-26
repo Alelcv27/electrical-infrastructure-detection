@@ -1,5 +1,3 @@
-This refined README incorporates the technical specifics from your project presentation and notebook while maintaining a professional structure for your repository.
-
 # Cable and Tower Detection and Segmentation
 
 **Authors:** Alessandro La Cava & Matteo Parrotta
@@ -46,5 +44,4 @@ The study followed a comparative approach to identify the most effective archite
 4. **Execute:** Run the cells in the Jupyter notebook to reproduce the benchmarking and HQ-SAM post-processing.
 
 ---
-
-*Developed for the Computer Vision course at Università della Calabria.*
+Developed for the Computer Vision course at Università della Calabria.
